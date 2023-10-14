@@ -1,3 +1,5 @@
+# Learn about Backend
+
 What is backend ?
 Backend developer is person who know how to create server and how to program a database.
 
@@ -13,23 +15,23 @@ What do we need ?
 - Nodejs install
 - import and export in js
 - run the code
-  -- node js core usage & understanding - http
+- node js core usage & understanding
+- http
 - Mongoosejs
 - npm usage
 - Expressjs
 - Express Generator
 - Mongodb
 - intermediate mongodb
-  -- api devlopment
-  -- authentication and authorization
-  -- error handling
+- api devlopment
+- authentication and authorization
+- error handling
 - middleware
-  -- session and cookies
-  -- deployment
-  -- testing
-  -- realtime stuff
-
--- node js core advanced - fs, os and events
+- session and cookies
+- deployment
+- testing
+- realtime stuff
+- node js core advanced - fs, os and events
 
 What should we make to hit big companies ?
 
